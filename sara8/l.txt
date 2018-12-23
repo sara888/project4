@@ -1,1 +1,4 @@
 suihfjdio
+n=10
+viny 10
+kmau updat
